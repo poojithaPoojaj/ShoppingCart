@@ -26,4 +26,10 @@ public class WalletDetails {
     this.password=password;
     this.amount=amount;
 }
+public WalletDetails(){
+
+}
+    public WalletDetails create(String userName,int password,int amount){
+        return new WalletDetails(userName,password,amount);
+    }
 }
