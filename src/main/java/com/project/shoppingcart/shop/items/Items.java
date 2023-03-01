@@ -2,6 +2,6 @@ package com.project.shoppingcart.shop.items;
 
 public enum Items {
     APPLE,
-    MILK,
+    MILK_PACKET,
     NEWSPAPER
 }

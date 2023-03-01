@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.shoppingcart.ShoppingCartTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-01T16:11:10" hostname="LAPTOP-CLGBP6P7" time="0.022">
+  <properties/>
+  <testcase name="addItemsAndCheckIndividual" classname="com.project.shoppingcart.ShoppingCartTest" time="0.015"/>
+  <testcase name="addItemsAndcheckTotalItems" classname="com.project.shoppingcart.ShoppingCartTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
