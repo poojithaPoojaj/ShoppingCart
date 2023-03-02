@@ -7,9 +7,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class BillTest {
-//set cost and check total cost
-    //set cost and check cost with shop offers
-    //set codt and check cost with wallet cose
     @Test
     public void setCostAndCheckTotalCost(){
         ItemCost itemCost=new ItemCost();
